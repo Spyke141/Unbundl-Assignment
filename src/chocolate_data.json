@@ -1,0 +1,142 @@
+[
+  {
+    "id": "choco_10000001",
+    "name": "3 Muskteers",
+    "imgSrc": "/Images/3_Muskteers.jpg",
+    "price" : 150,
+    "description": "Similar to the Milky Way, the 3 Musketeers bar is made of fluffy, whipped nougat covered in chocolate. It originally came with three flavors in one pack — chocolate, vanilla, and strawberry — hence the name."
+  },
+  {
+    "id": "choco_10000002",
+    "name": "Oh Henry!",
+    "imgSrc": "/Images/Oh_Henry!_Bar.jpg",
+    "price" : 50,
+    "description": "One of the first combination candy bars, the Oh Henry! — is a mix of peanuts, caramel, and fudge coated in chocolate."
+  },
+  {
+    "id": "choco_10000003",
+    "name": "Hersheys Milk Chocolate Bar",
+    "imgSrc": "/Images/Hersheys_Milk_Chocolate_Bar.jpg",
+    "price" : 250,
+    "description": "The bar that started it all, although the slightly sour taste is still somewhat different"
+  },
+  {
+    "id": "choco_10000004",
+    "name": "Health Toffee Bar",
+    "imgSrc": "/Images/Health_Toffee_Bar.jpg",
+    "price" : 100,
+    "description": "Made of toffee, almonds, and milk chocolate, the Heath Toffee Bar is originally marketed as health bar. The tagline? Heath for better health!"
+  },
+  {
+    "id": "choco_10000005",
+    "name": "Clark Bar",
+    "imgSrc": "/Images/Clark_Bar.jpg",
+    "price" : 150,
+    "description": "Similar to the Butterfinger, the Clark Bar has a crispy peanut butter and spun taffy core."
+  },
+  {
+    "id": "choco_10000006",
+    "name": "Mounds",
+    "imgSrc": "/Images/Mounds.jpg",
+    "price" : 250,
+    "description": "One of the simpler and more enduring candy bars out there, this shredded coconut and dark chocolate confection remains a favorite to this day."
+  },
+  {
+    "id": "choco_10000008",
+    "name": "Baby Ruth",
+    "imgSrc": "/Images/Baby_Ruth.jpg",
+    "price" : 200,
+    "description": "The Baby Ruth bar — which is supposedly named for President Grover Cleveland's eldest daughter and not the famous baseball player — was originally marketed as an energy bar and a complete luncheon for 5c."
+  },
+  {
+    "id": "choco_10000007",
+    "name": "Hersheys Gold Peanuts & Pretzels",
+    "imgSrc": "/Images/Hersheys_Gold_peanuts_&_Pretzels.jpg",
+    "price" : 300,
+    "description": "Only the fourth candy bar to carry the Hershey's name, the Gold is another chocolate-free treat, with peanuts and pretzels baked into caramelized creme."
+  },
+  {
+    "id": "choco_10000009",
+    "name": "Butter Finger Bar",
+    "imgSrc": "/Images/Butter_Finger_Bar.jpg",
+    "price" : 50,
+    "description": "In an early marketing campaign, the Curtiss Candy Company dropped Butterfingers with tiny parachutes from airplanes, which is very adorable."
+  },
+  {
+    "id": "choco_10000010",
+    "name": "Milky Way",
+    "imgSrc": "/Images/Milky_Way.jpg",
+    "price" : 80,
+    "description": "Made of chocolate malt nougat topped with caramel and covered in milk chocolate, the Milky Way bar is modeled after a popular milkshake at the time."
+  },
+  {
+    "id": "choco_100000011",
+    "name": "Charleston_Chew",
+    "imgSrc": "/Images/Charleston_Chew.jpg",
+    "price" : 120,
+    "description": "Featuring nougat in a chocolate coating, this classic candy bar — named after the Charleston, a popular dance in the 1920s — originally came in four flavors: chocolate, vanilla, strawberry, and banana (that one was eventually phased out)."
+  },
+  {
+    "id": "choco_100000012",
+    "name": "Reese's Peanut Butter Cup",
+    "imgSrc": "/Images/Reese's_Peanut_Butter_Cup.jpg",
+    "price" : 160,
+    "description": "This iconic sweet was originally developed by H.B. Reese, a former shipping foreman for candy magnate Milton S. Hershey."
+  },
+  {
+    "id": "choco_100000013",
+    "name": "Snickers",
+    "imgSrc": "/Images/Snickers.jpg",
+    "price" : 50,
+    "description": "If Snickers is your favorite chocolate bar, you're not alone. It's nabbed the top spot in lists of America's best-selling candies for years."
+  },
+  {
+    "id": "choco_100000014",
+    "name": "Payday",
+    "imgSrc": "/Images/Payday.jpg",
+    "price" : 90,
+    "description": "One of the few chocolate-free candy bars, PayDays consist of salted peanuts rolled in caramel, surrounding a nougat-like center."
+  },
+  {
+    "id": "choco_100000015",
+    "name": "Kit-Kat",
+    "imgSrc": "/Images/Kit-Kat.jpg",
+    "price" : 50,
+    "description": "It was invented by Rowntree's, but Hershey acquired a license to produce Kit Kats, and they've been a top-selling candy bar here ever since"
+  },
+  {
+    "id": "choco_100000016",
+    "name": "Nestle Crunch",
+    "imgSrc": "/Images/Nestle-Crunch.jpg",
+    "price" : 160,
+    "description": "One of the original crisped rice milk chocolate bars, the Crunch's direct competitor is the Krackel, introduced by Hershey that same year."
+  },
+  {
+    "id": "choco_100000017",
+    "name": "Almond Joy",
+    "imgSrc": "/Images/Almond_Joy.jpg",
+    "price" : 250,
+    "description": "It took the makers of Mounds 26 years to realize that sometimes you feel like a nut."
+  },
+  {
+    "id": "choco_100000018",
+    "name": "Caramello",
+    "imgSrc": "/Images/Caramello.jpg",
+    "price" : 250,
+    "description": "Hands down, one of the sweetest candy bars you can eat. Also, one of the best to blend into a milkshake."
+  },
+  {
+    "id": "choco_100000019",
+    "name": "Hersheys Cookies 'N' Creme",
+    "imgSrc": "/Images/Hersheys_Cookies_'N'_Creme.jpg",
+    "price" : 350,
+    "description": "Hershey's chocolate Cookies 'n' Creme is similar in taste to an Oreo with a slight tangyness"
+  },
+  {
+    "id": "choco_100000020",
+    "name": "Take 5",
+    "imgSrc": "/Images/Take_5.jpg",
+    "price" : 180,
+    "description": "With pretzels, caramel, peanuts, peanut butter, and milk chocolate, the Take5 is one of the first candy bars to contain all the stuff."
+  }
+]
