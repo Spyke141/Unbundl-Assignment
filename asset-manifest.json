@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Unbundl-Assignment/static/css/main.a4838356.css",
+    "main.js": "/Unbundl-Assignment/static/js/main.bdccf580.js",
+    "static/js/787.db468d0f.chunk.js": "/Unbundl-Assignment/static/js/787.db468d0f.chunk.js",
+    "index.html": "/Unbundl-Assignment/index.html",
+    "main.a4838356.css.map": "/Unbundl-Assignment/static/css/main.a4838356.css.map",
+    "main.bdccf580.js.map": "/Unbundl-Assignment/static/js/main.bdccf580.js.map",
+    "787.db468d0f.chunk.js.map": "/Unbundl-Assignment/static/js/787.db468d0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4838356.css",
+    "static/js/main.bdccf580.js"
+  ]
+}
